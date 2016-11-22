@@ -22,8 +22,11 @@ VitorVidal
 1.2 - Projects
 
 -OpenBR4Net (solution)
+
   +OpenBR4Net (VC++ project)
+  
   +OpenBR4Net.App.Console (C# console test program)
+  
   +OpenBR4NetWrapper (C# wrapper Project)
   
 1.2 - Requirements
