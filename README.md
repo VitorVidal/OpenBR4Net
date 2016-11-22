@@ -44,7 +44,7 @@ VitorVidal, 11/22/2016
   
 1.4 - Knows Bugs
 
-  I'm having issues when compare the same image on OpenBR. It's returning NaN.
+  I'm having issues when compare the same template data. It's returning NaN.
   
   
   
