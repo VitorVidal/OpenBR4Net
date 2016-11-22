@@ -1,13 +1,16 @@
 # OpenBR4Net
 A wrapper class to use OpenBR (http://openbiometrics.org/) on .NET
 
-VitorVidal
-11/22/2016 
+VitorVidal, 11/22/2016 
 
 1   - Introduction
+
 1.1 - Projects
+
 1.2 - Requirements
+
 1.3 - OpenBR4Net.App.Console
+
 1.4 - Knowns Bugs
 
 1 - Introduction
