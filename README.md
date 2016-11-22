@@ -42,6 +42,8 @@ VitorVidal, 11/22/2016
 
   Just an c# console project to test and show the wrapper.
   
+  Must provide template files to "verify" method using extension ".gal".
+  
 1.4 - Knows Bugs
 
   I'm having issues when compare the same template data. It's returning NaN.
