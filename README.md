@@ -20,7 +20,7 @@ VitorVidal, 11/22/2016
   
   I spended a lot of time make it works on .Net, it's still "green" and I'm not a good vc++ programer, so I would like help to improve it. 
   
-  It has two functions: extract template from image files and compare images (score between 0 and 1).
+  It has two functions: extract template from image files and compare template files (score between 0 and 1).
   
 1.2 - Projects
 
